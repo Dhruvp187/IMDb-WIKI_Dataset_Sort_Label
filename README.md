@@ -72,10 +72,12 @@ Script that combines the functionalities of the previous scripts. Processes the 
 
 Feel free to modify these scripts to suit your specific requirements and dataset characteristics.
 
-Documentation Improvement
+##Documentation Improvement
+
 If you have suggestions or improvements for the documentation, please feel free to contribute. You can submit a pull request or open an issue to discuss potential enhancements.
 
-Thanks
+##Thanks
+
 Thank you for using this repository! Your feedback and contributions are greatly appreciated. If you encounter any issues or have suggestions for improvement, please don't hesitate to reach out.
 
 Contributions are welcome!
